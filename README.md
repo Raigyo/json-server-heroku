@@ -1,3 +1,9 @@
+# Project
+
+Used with [https://github.com/Raigyo/progressive-web-app](https://github.com/Raigyo/progressive-web-app)
+
+Hosted on Heroku: [https://raigyo-pwa-json.herokuapp.com/](https://raigyo-pwa-json.herokuapp.com/)
+
 # Deploy `json-server` to `{{ free hosting site }}`
 
 > Instructions how to deploy the full fake REST API [json-server](https://github.com/typicode/json-server) to various free hosting sites. Should only be used in development purpose but can act as a simpler database for smaller applications.
